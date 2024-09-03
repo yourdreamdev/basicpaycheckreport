@@ -1,0 +1,15 @@
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/bin/Debug/net7.0/P04_JOE_BROWN
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/bin/Debug/net7.0/P04_JOE_BROWN.deps.json
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/bin/Debug/net7.0/P04_JOE_BROWN.runtimeconfig.json
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/bin/Debug/net7.0/P04_JOE_BROWN.dll
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/bin/Debug/net7.0/P04_JOE_BROWN.pdb
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/obj/Debug/net7.0/P04_JOE_BROWN.csproj.AssemblyReference.cache
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/obj/Debug/net7.0/P04_JOE_BROWN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/obj/Debug/net7.0/P04_JOE_BROWN.AssemblyInfoInputs.cache
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/obj/Debug/net7.0/P04_JOE_BROWN.AssemblyInfo.cs
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/obj/Debug/net7.0/P04_JOE_BROWN.csproj.CoreCompileInputs.cache
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/obj/Debug/net7.0/P04_JOE_BROWN.dll
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/obj/Debug/net7.0/refint/P04_JOE_BROWN.dll
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/obj/Debug/net7.0/P04_JOE_BROWN.pdb
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/obj/Debug/net7.0/P04_JOE_BROWN.genruntimeconfig.cache
+/Users/dream/Desktop/CIS162AD/P04_JOE_BROWN/P04_JOE_BROWN/obj/Debug/net7.0/ref/P04_JOE_BROWN.dll
